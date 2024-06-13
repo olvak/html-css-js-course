@@ -1,2 +1,1 @@
-# ProgrammingBasics_HTML_CSS_JS
-Programming basics with HTML, CSS, and JavaScript by Duke University PFW101
+Programming Foundations with JavaScript, HTML and CSS by Duke University PFW101
