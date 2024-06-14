@@ -9,10 +9,10 @@ function changeRed(width, height) {
         if (pixel.getRed() < 255) {
         red = red + 1;
         }
-    if (pixel.getRed() == 255) {
+        if (pixel.getRed() == 255) {
         red = 0;
+        }
     }
-}
 return picture;
 }
 let result = changeRed(256,200);
