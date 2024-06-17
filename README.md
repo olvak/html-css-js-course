@@ -1,1 +1,1 @@
-Programming Foundations with JavaScript, HTML and CSS by Duke University PFW101
+My conspect of "HTML,CSS and JavaScript" course by Prometheus/Duke University
