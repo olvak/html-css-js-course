@@ -15,7 +15,7 @@ function markDone (item) {
 }
 
 function remove (item) {
-    if (item.className=='finished') {
+    if (item.className == 'finished') {
         item.remove();
     } 
 }
