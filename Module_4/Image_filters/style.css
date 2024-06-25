@@ -1,6 +1,9 @@
 body {
-    background-color: wheat;
+    background-color: lightgrey;
     margin: 30pt;
+    justify-content:center;
+    max-width: 500px;
+    margin: auto;
 }
   
 canvas {
