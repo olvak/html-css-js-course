@@ -12,9 +12,10 @@ function topRightCorner(cornerWidth, cornerHeight, someImage, red, green, blue) 
     }
     return someImage;
 }
+
 let picture = new SimpleImage("imagename.png");
 let result = topRightCorner(30, 60, picture, 255, 255, 0);
-print(result);
+console.log(result);
 
 // three different color squares
 function topRightCorner(cornerWidth, cornerHeight, someImage, red, green, blue) {
@@ -24,10 +25,11 @@ function topRightCorner(cornerWidth, cornerHeight, someImage, red, green, blue) 
         let result = topRightCorner(30, 60, picture, 255, 255, 0);
         let result2 = topRightCorner(60, 30, result, 0, 0, 255);
         let result3 = topRightCorner(30, 30, result2, 0, 255, 0);
-        print(result3);
+        console.log(result3);
     }
     return someImage;
 }
+
 let picture = new SimpleImage("imagename.png");
 let result = topRightCorner(30, 60, picture, 255, 255, 0);
-print(result);
+console.log(result);

@@ -15,4 +15,4 @@ function filterRed(image) {
   
 let img = new SimpleImage("imagename.png");
 filterRed(img);
-print (img);
+console.log(img);

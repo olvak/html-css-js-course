@@ -21,5 +21,6 @@ for (let pixel of fgImage.values()) {
         output.setPixel(pixel.getX(), pixel.getY(), pixel);
     }
 }
+
 // Show the result!
-print(output);
+console.log(output);
