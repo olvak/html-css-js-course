@@ -16,4 +16,4 @@ function changeRed(width, height) {
 return picture;
 }
 let result = changeRed(256,200);
-print(result);
+console.log(result);

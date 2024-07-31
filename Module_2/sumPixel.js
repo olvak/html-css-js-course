@@ -6,6 +6,6 @@ function sumPixel(nameOfImage, xpos, ypos) {
     return redNumber + blueNumber + greenNumber;
 }
 let answer = sumPixel("imagename.png", 250, 500);
-print(answer);
+console.log(answer);
 answer = sumPixel("imagename.png",10, 10);
-print(answer);
+console.log(answer);

@@ -11,4 +11,4 @@ for (let pixel of someImage.values()) {
         pixel.setBlue(0);
     }
 }
-print(image);
+console.log(image);

@@ -22,4 +22,4 @@ for (let pixel of fgImage.values()) {
     }
 }
 // Show the result!
-print(output);
+console.log(output);
