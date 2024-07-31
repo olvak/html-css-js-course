@@ -12,6 +12,7 @@ function topRightCorner(cornerWidth, cornerHeight, someImage, red, green, blue) 
     }
     return someImage;
 }
+
 let picture = new SimpleImage("imagename.png");
 let result = topRightCorner(30, 60, picture, 255, 255, 0);
 console.log(result);
@@ -28,6 +29,7 @@ function topRightCorner(cornerWidth, cornerHeight, someImage, red, green, blue) 
     }
     return someImage;
 }
+
 let picture = new SimpleImage("imagename.png");
 let result = topRightCorner(30, 60, picture, 255, 255, 0);
 console.log(result);

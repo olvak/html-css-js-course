@@ -5,5 +5,6 @@ function numberPixels(namefile) {
     let total = height * width;
     return total;
 }
+
 let result = numberPixels("imagename.png");
 console.log(result);

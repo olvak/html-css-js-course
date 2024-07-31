@@ -4,4 +4,5 @@ for (let pixel of someImage.values()) {
     pixel.setRed(70);
     }
 }
+
 console.log(image);
